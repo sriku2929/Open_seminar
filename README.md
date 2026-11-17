@@ -7,6 +7,7 @@
 ```
 Open_seminar/
 ├── titanic/                 # 解説用（Titanic）
+│   ├── titanic_tutorial.ipynb  # 解説用ノートブック
 │   ├── train.csv            # 学習データ（891行・Survivedあり）
 │   └── test.csv             # 予測用データ（418行）
 ├── spaceship-titanic/       # 演習用（Spaceship Titanic）
@@ -15,6 +16,12 @@ Open_seminar/
 │   └── sample_submission.csv
 └── README.md
 ```
+
+## 解説用ノートブック
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriku2929/Open_seminar/blob/main/titanic/titanic_tutorial.ipynb)
+
+ボタンを押すとGoogle Colabで開けます（Googleアカウントが必要です）。
 
 ## データの読み込み（Google Colab）
 
